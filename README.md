@@ -62,6 +62,15 @@ Thus Higher value of R2 Score shows that the difference between the Actual Value
 # Other Graphs of this project
 ![Gold 1](https://user-images.githubusercontent.com/74102049/160408443-5bfb9727-904c-497b-a6ed-527aaa6dd79a.jpg)
 ![Gold 2](https://user-images.githubusercontent.com/74102049/160408459-a4156f1f-e0e1-403b-9a8d-523cc6041ec4.jpg)
+
+From this graph it can concluded that Silver Feature is linearly progressing with gold feature.
+
 ![Gold 3](https://user-images.githubusercontent.com/74102049/160408475-37dfab44-c74f-497c-8e89-c8a73c1317c5.jpg)
+
+From this graph it can be concluded that feature USD and SPX have Outliers.
+
 ![Gold 4](https://user-images.githubusercontent.com/74102049/160408491-8bb99382-f7d0-4644-8e96-9f0119abd8f4.jpg)
+
+This Graph shows the correlation between the different features in the dataset.
+
 ![Gold5](https://user-images.githubusercontent.com/74102049/160408540-8e551aec-8549-4fd6-a81c-1568d14a109e.jpg)
