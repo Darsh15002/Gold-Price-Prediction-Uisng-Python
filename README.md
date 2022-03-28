@@ -22,3 +22,38 @@ During this Project I have learnt following things:
   •	How to apply the different machine learning models on the dataset and analyse the model’s performance.
 
   •	How to optimize the machine learning model and increase it’s accuracy and reduce the error.
+  
+ # Required Installations  
+Following installations are required in order to run the project
+
+•	Python 3.x
+
+Following Libraries are used in this project
+
+•	Numpy
+
+•	Pandas
+
+•	Seaborn
+
+•	Matplotlib
+
+•	Scikit-Learn
+
+Apart from this I would also recommend to download Anaconda which contains all the pre-packaged Python Libraries and the necessary software such as Jupiter Notebook. This project is built using the Jupiter Notebook.
+
+# Code:
+The entire code is provided in one file  Gold_Price_Prediction.ipynb.
+Apart from this a PDF of the Jupiter notebook file is also uploaded in this project Repository for reference.
+
+# Evaluation Metrics:
+ In this project I have used R Square Error or R2 Score as my evaluation metrics. R2 Score is a statistical measure that shows how close the data are towards the fitted regression line. Or in other words it calculates how accurately the model can predict the correct value. It is also known as the coefficient of determination.
+ 
+R-squared is always between the range 0 – 100 %:
+
+•	0% indicates the model shows that there is no variability of the response data around its mean.
+
+•	100 % indicates that the model explains the variability of the response data around its mean.
+
+Thus Higher value of R2 Score shows that the difference between the Actual Value and the Predicted Value is less which in turns show that our model gives accurate results.
+
