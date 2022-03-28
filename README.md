@@ -5,6 +5,8 @@ Gold is a yellow metallic element that occurs naturally in pure form and is used
 
 In this project, I have forecasted the gold rates using the most comprehensive set of features and used machine learning algorithms for forecasting the gold rates and compare the result. For this project I have used “Gold Price Data” that I downloaded from https://www.kaggle.com/altruistdelhite04/gold-price-data where the data ranges from 01-02-2008 to 05-16-2018. There is total 2290 rows and 6 columns. The names of the column is Date, SPX, GLD, USO, SLV, EUR/USD respectively. I have tried to predict the price of gold with respect to the corresponding rows in other columns. Here I have used Random Forest Regressor Machine learning model to predict the price of the gold.
 
+Graph showing how close the Actual Gold Price and the Predicted Gold Price is:
+![gold](https://user-images.githubusercontent.com/74102049/160405073-9fac856f-f9c5-49e7-8e62-c08b068e96bb.jpg)
 # Project Workflow
 ![Gold price workflow diagram](https://user-images.githubusercontent.com/74102049/160400436-1f5f1af2-84a8-40b4-a123-8cda15cc927d.jpeg)
 
