@@ -7,3 +7,12 @@ In this project, I have forecasted the gold rates using the most comprehensive s
 
 # Project Workflow
 ![Gold price workflow diagram](https://user-images.githubusercontent.com/74102049/160400436-1f5f1af2-84a8-40b4-a123-8cda15cc927d.jpeg)
+
+# Problem Highlighted
+The Goal of this project is to accurately predict the price of Gold Price (GLD) across a given period of time in the future. In this project I have used Random Forest Regressor Model Machine Learning Algorithm to predict the future price of Gold.
+During this Project I have learnt following things:
+•	How to apply machine learning techniques, models and algorithms on a dataset.
+•	How to perform Exploratory Data Analysis (EDA) on a dataset.
+•	How to collect and pre-process the data.
+•	How to apply the different machine learning models on the dataset and analyse the model’s performance.
+•	How to optimize the machine learning model and increase it’s accuracy and reduce the error.
