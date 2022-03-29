@@ -45,7 +45,7 @@ Following Libraries are used in this project
 Apart from this I would also recommend to download Anaconda which contains all the pre-packaged Python Libraries and the necessary software such as Jupiter Notebook. This project is built using the Jupiter Notebook.
 
 # Code:
-The entire code is provided in one file  Gold_Price_Prediction.ipynb.
+The entire code is provided in one file  https://github.com/Darsh15002/Gold-Price-Prediction-Uisng-Python/blob/main/Gold_Price_Prediction.ipynb.
 Apart from this a PDF of the Jupiter notebook file is also uploaded in this project Repository for reference.
 
 # Evaluation Metrics:
